@@ -7,4 +7,4 @@
 son test
 
 sample
-mample
+foo
